@@ -7,7 +7,7 @@ Host webserver
      User ec2-user
      Port 22
      IdentityFile /root/testvm.pem
-```
+````
 #### To open your new SSH session to webserver by typing the following command :
 ```
 [root@ip-172-31-36-156 ~]# ssh webserver
